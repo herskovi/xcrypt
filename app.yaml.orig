@@ -1,0 +1,30 @@
+application: xcrypt
+runtime: python27
+threadsafe: true
+api_version: 1
+
+handlers:
+
+
+- url: /
+  script: main.app
+
+- url: /index\.html
+  script: main.app
+
+
+
+
+libraries:
+- name: ssl
+  version: latest
+
+- name: pycrypto
+  version: "latest"
+
+- name: jinja2
+  version: "latest"
+
+- name: webapp2
+  version: "2.5.2"
+

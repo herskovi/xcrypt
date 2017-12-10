@@ -1,0 +1,43 @@
+runtime: python27
+threadsafe: true
+api_version: 1
+
+default_expiration: "10m"
+
+handlers:
+- url: /favicon\.ico
+  static_files: favicon.ico
+  upload: favicon\.ico
+
+- url: (.*)/
+  static_files: xcrypt/app\1/index.html
+  upload: xcrypt/app/index\.html
+  mime_type: text/html; charset=utf-8
+
+- url: (/.*\.css)
+  static_files: xcrypt/app\1
+  upload: xcrypt/app/.*\.css
+  mime_type: text/css; charset=utf-8
+
+- url: (/.*\.html)
+  static_files: xcrypt/app\1
+  upload: xcrypt/app/.*\.html
+  mime_type: text/html; charset=utf-8
+
+- url: (/.*\.js)
+  static_files: xcrypt/app\1
+  upload: xcrypt/app/.*\.js
+  mime_type: text/javascript; charset=utf-8
+
+- url: (/rest/.*)
+  script: main.app
+
+libraries:
+- name: ssl
+  version: latest
+
+- name: pycrypto
+  version: "latest"
+
+- name: webapp2
+  version: "2.5.2"

@@ -1,0 +1,31 @@
+{
+  "name": "ZingChart-AngularJS",
+  "version": "1.2.0",
+  "description": "An AngularJS wrapper for ZingChart",
+  "main": "src/zingchart-angularjs.js",
+  "keywords": [
+    "zingchart",
+    "angularjs",
+    "charts",
+    "charting",
+    "javascript charts",
+    "html5 charts"
+  ],
+  "authors": [
+    "ZingChart"
+  ],
+  "homepage": "http://www.zingchart.com",
+  "dependencies": {
+    "zingchart": "latest"
+  },
+  "_release": "1.2.0",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.2.0",
+    "commit": "4e413d146d08ffd0fd089c1c46b9299a951a6dd2"
+  },
+  "_source": "https://github.com/zingchart/ZingChart-AngularJS.git",
+  "_target": "^1.2.0",
+  "_originalSource": "zingchart-angularjs",
+  "_direct": true
+}

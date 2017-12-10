@@ -1,0 +1,15 @@
+Metadata-Version: 2.0
+Name: BitstampClient
+Version: 2.2.0
+Summary: Bitstamp API python implementation
+Home-page: https://github.com/kmadac/bitstamp-python-client
+Author: Kamil Madac
+Author-email: kamil.madac@gmail.com
+License: MIT
+Description-Content-Type: UNKNOWN
+Platform: UNKNOWN
+Requires-Dist: requests
+
+UNKNOWN
+
+

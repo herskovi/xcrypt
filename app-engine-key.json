@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bitcoins-with-bitstamp",
+  "private_key_id": "7d6265934a99fc062107123b982c0f3338841c71",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC5HLzO2IG1IVn1\nPAwZ3jP9N2/ocvFAHoeVShIh+fmhc+3dLVXvR0hwliWVmlihTzadaegywJS0dLK1\n0hhg/7aHXQuBOSKS6rGKWZTiXao1FYSnRbOXwhi7kEJRxhrBucNjukPLztlRcw58\nUQPzUv7AtmTXzSOe4M8XL7QNFXfGm2qMjRv5ZMGkXCY3VaTA/HbCHOT48NanTidG\ng1SpOd7UxoxZP7z+SwV83efvNpUN4UoeFVb2IMBvg1QOWkfi5x30FXH6izACm9//\nJu8VG0PCztKf32T745HLxsRt8iVrEymUMw9zxmgSdKeWXbu2x9gd4NdTy+H6SIz5\nr5IteLTHAgMBAAECggEATXRm1C3naADCgUhUz+YX3tX5b0vZAjlEBgVuPOU5vIKj\nfq5fjLVI7EMHCugAOc7JTWhpDgNitXc257k3Fi8pEs6t564ed1bYXslI8Ma8V2Xf\nkZYqpU9DxgeAmHLJ81FlHi9r+rVcXSZFY2MKwh9yFPS8kUd2ph3uyQbe0bKv4Vuk\nDypvDhI5Z+OBqPSzWcZCnaSYvPJ15JuXv5gQbmlUNcKQMbftS6FxC4Db+L26gbta\nyu8PsrihnHtZx9PerjGOIjbrLCrsUM6khq4LfYb5OIYBykRcJADluAifUno4U3lX\nLyT7V1zZc0Lr11zp5riCeNS9JnWJOf0uHtZvUhBWYQKBgQDi4DFFQDdr5umQWAmF\nmx237Y3KaQsfKXZsK87np02mm9f8g1ym6zNHOGosw9RupXUfSAXB1Fd8zKX7U16I\nKB+CCA4cibOX3u/yXNAHfiR7H81ZHOmH/yTpJrzldn/hze4ZvkVVU6ZrQ2PzVmsb\nbK5xE/M3MKks1bSWVU1fRAFrmQKBgQDQ4BK9O4bshvAiZ9YGGwHTKgFnqNSuS59E\nGiCzE2t570RbLiT3m39JfUAlzdgCYKzgaQqcMRMkjpjzpwu+0GrZCOcwEdeu4iB/\nl79jAorzb4lhAzFAmCwckKpH3pSmG2Iqlj1ka/cgo0JgsZxQ+lUQd4Q6JPC1jt51\n1GtT3KRfXwKBgCNi8IxqnbpYw+ldse6C6Tm89bayd6eeoffxRU5gi/4GpMOgAZ2P\nZeof5H+i88lmSURdyXgYFKVEjkcLE92M1I1FkF3nJHn1rdtRmqjwheQma7MQjWRG\n6YzsG952gy/HHPIq+Ul7yKNGWZqkygP3CaZdhDwBfQGfO5GPMIhBZS9RAoGASdbs\nyPjCOdt6CK+seXwSqROwa3TDutoA85JI/QVgeTqcb59gcigGV3RvuO2L70s90hdQ\nKOcwXTwL1ha3kD0diJwdHmEwXiKSWojKn7XGaUiEyEbYon0pGvAJQl7tLcuAaI20\nJkwEkQUl8gjXucjFSYz2sZddgNGA0ybEymC1uwECgYEAqWpkyqvttvJkmFyeYYC0\nuT4zMWCUiqzFWwaK7NNgVG9f3LgHiRN7twyLIabU4nQCpAh72fQZU2dt2NUsE9/4\n3GAbquNyoaTU1um6sr/jV00jEHCKSMOQ1JgNJjt4JdFRb7QUqUmvaFYDaJs0Z/hY\nabNI3b5OTnr6M4/Ym1BX71A=\n-----END PRIVATE KEY-----\n",
+  "client_email": "bitcoins-with-bitstamp@appspot.gserviceaccount.com",
+  "client_id": "111379633490891740837",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bitcoins-with-bitstamp%40appspot.gserviceaccount.com"
+}

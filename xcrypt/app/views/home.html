@@ -1,0 +1,27 @@
+<div class="container-fluid">
+    <div class="row">
+        <div class="col-md-8">
+            <h1>Welcome to bigquery!</h1>
+            <p class="lead">This is my example of bigquery(limited 1000 results)</p>
+            <div>
+            <textarea cols="80" rows="5" name="query" ng-model="sql.query">
+
+            </textarea>
+            </div>
+            <br><br>
+            <p class="warntxt"><strong>{{errormessage}}</strong></p>
+			  <strong>Data Length:</strong> {{ gridOptions.data.length | number }}
+  			<br>
+  			<br>
+  			<div id="grid1" ui-grid="gridOptions" class="grid"></div>
+            <br>
+
+            <br>
+              <p>
+                  <button class="btn btn-primary" ng-click="bgquery()">query</button>
+                  <button class="btn btn-info" ng-click="reset()">reset</button>
+              </p>
+
+        </div>
+    </div>
+</div>

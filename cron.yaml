@@ -1,0 +1,4 @@
+cron:
+- description: "daily summary job"
+  url: /rest/uploadtobigquery
+  schedule: every 1 minutes
